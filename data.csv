@@ -1,0 +1,223 @@
+CODE;PAÍS;PORCENTAGEM
+AFG;Afeganistão;0
+ALB;Albânia;0
+DZA;Argélia;0
+ASM;Samoa Americana;0
+AND;Andorra;0
+AGO;Angola;0
+AIA;Anguila;0
+ATG;Antígua e Barbuda;0
+ARG;Argentina;0
+ARM;Armênia;0
+ABW;Aruba;0
+AUS;Austrália;0
+AUT;Áustria;0
+AZE;Azerbaijão;0
+BHM;Bahamas;0
+BHR;Bahrein;0
+BGD;Bangladesh;0
+BRB;Barbados;0
+BLR;Bielorrússia;0
+BEL;Bélgica;0
+BLZ;Belize;0
+BEN;Benim;0
+BMU;Bermudas;0
+BTN;Butão;0
+BOL;Bolívia;0
+BIH;Bósnia e Herzegovina;0
+BWA;Botsuana;0
+BRA;Brasil;64
+VGB;Ilhas Virgens Britânicas;0
+BRN;Brunei;0
+BGR;Bulgária;0
+BFA;Burquina Faso;0
+MMR;Mianmar;0
+BDI;Burundi;0
+CPV;Cabo Verde;0
+KHM;Camboja;0
+CMR;Camarões;0
+CAN;Canadá;0
+CYM;Ilhas Cayman;0
+CAF;República Centro-Africana;0
+TCD;Chade;0
+CHL;Chile;0
+CHN;China;0
+COL;Colômbia;0
+COM;Comores;0
+COD;República Democrática do Congo;0
+COG;República do Congo;0
+COK;Ilhas Cook;0
+CRI;Costa Rica;0
+CIV;Costa do Marfim;0
+HRV;Croácia;0
+CUB;Cuba;0
+CUW;Curaçao;0
+CYP;Chipre;0
+CZE;República Tcheca;0
+DNK;Dinamarca;0
+DJI;Djibuti;0
+DMA;Dominica;0
+DOM;República Dominicana;0
+ECU;Equador;0
+EGY;Egito;0
+SLV;El Salvador;0
+GNQ;Guiné Equatorial;0
+ERI;Eritreia;0
+EST;Estônia;0
+ETH;Etiópia;0
+FLK;Ilhas Malvinas;0
+FRO;Ilhas Faroé;0
+FJI;Fiji;0
+FIN;Finlândia;0
+FRA;França;0
+PYF;Polinésia Francesa;0
+GAB;Gabão;0
+GMB;Gâmbia;0
+GEO;Geórgia;0
+DEU;Alemanha;0
+GHA;Gana;0
+GIB;Gibraltar;0
+GRC;Grécia;0
+GRL;Groenlândia;0
+GRD;Granada;0
+GUM;Guam;0
+GTM;Guatemala;0
+GGY;Guernsey;0
+GNB;Guiné-Bissau;0
+GIN;Guiné;0
+GUY;Guiana;0
+HTI;Haiti;0
+HND;Honduras;0
+HKG;Hong Kong;0
+HUN;Hungria;0
+ISL;Islândia;0
+IND;Índia;0
+IDN;Indonésia;0
+IRN;Irã;0
+IRQ;Iraque;0
+IRL;Irlanda;0
+IMN;Ilha de Man;0
+ISR;Israel;0
+ITA;Itália;0
+JAM;Jamaica;0
+JPN;Japão;0
+JEY;Jersey;0
+JOR;Jordânia;0
+KAZ;Cazaquistão;0
+KEN;Quênia;0
+KIR;Kiribati;0
+PRK;Coreia do Norte;0
+KOR;Coreia do Sul;0
+KSV;Kosovo;0
+KWT;Kuwait;0
+KGZ;Quirguistão;0
+LAO;Laos;0
+LVA;Letônia;0
+LBN;Líbano;0
+LSO;Lesoto;0
+LBR;Libéria;0
+LBY;Líbia;0
+LIE;Liechtenstein;0
+LTU;Lituânia;0
+LUX;Luxemburgo;0
+MAC;Macau;0
+MKD;Macedônia;0
+MDG;Madagáscar;0
+MWI;Malawi;0
+MYS;Malásia;0
+MDV;Maldivas;0
+MLI;Mali;0
+MLT;Malta;0
+MHL;Ilhas Marshall;0
+MRT;Mauritânia;0
+MUS;Maurício;0
+MEX;México;0
+FSM;Micronésia;0
+MDA;Moldávia;0
+MCO;Mônaco;0
+MNG;Mongólia;0
+MNE;Montenegro;0
+MAR;Marrocos;0
+MOZ;Moçambique;0
+NAM;Namíbia;0
+NPL;Nepal;0
+NLD;Países Baixos;0
+NCL;Nova Caledônia;0
+NZL;Nova Zelândia;0
+NIC;Nicarágua;0
+NGA;Nigéria;0
+NER;Níger;0
+NIU;Niue;0
+MNP;Ilhas Marianas do Norte;0
+NOR;Noruega;0
+OMN;Omã;0
+PAK;Paquistão;0
+PLW;Palau;0
+PAN;Panamá;0
+PNG;Papua-Nova Guiné;0
+PRY;Paraguai;0
+PER;Peru;0
+PHL;Filipinas;0
+POL;Polônia;0
+PRT;Portugal;10
+PRI;Porto Rico;0
+QAT;Catar;0
+ROU;Romênia;0
+RUS;Rússia;0
+RWA;Ruanda;0
+KNA;São Cristóvão e Nevis;0
+LCA;Santa Lúcia;0
+MAF;São Martinho;0
+SPM;Saint-Pierre e Miquelon;0
+VCT;São Vicente e Granadinas;0
+WSM;Samoa;0
+SMR;San Marino;0
+STP;São Tomé e Príncipe;0
+SAU;Arábia Saudita;0
+SEN;Senegal;0
+SRB;Sérvia;0
+SYC;Seicheles;0
+SLE;Serra Leoa;0
+SGP;Singapura;0
+SXM;Sint Maarten;0
+SVK;Eslováquia;0
+SVN;Eslovênia;0
+SLB;Ilhas Salomão;0
+SOM;Somália;0
+ZAF;África do Sul;0
+SSD;Sudão do Sul;0
+ESP;Espanha;0
+LKA;Sri Lanka;0
+SDN;Sudão;0
+SUR;Suriname;0
+SWZ;Eswatini;0
+SWE;Suécia;0
+CHE;Suíça;0
+SYR;Síria;0
+TWN;Taiwan;0
+TJK;Tajiquistão;0
+TZA;Tanzânia;0
+THA;Tailândia;0
+TLS;Timor-Leste;0
+TGO;Togo;0
+TON;Tonga;0
+TTO;Trindade e Tobago;0
+TUN;Tunísia;0
+TUR;Turquia;0
+TKM;Turcomenistão;0
+TUV;Tuvalu;0
+UGA;Uganda;0
+UKR;Ucrânia;0
+ARE;Emirados Árabes Unidos;0
+GBR;Reino Unido;23
+USA;Estados Unidos;3
+URY;Uruguai;0
+UZB;Uzbequistão;0
+VUT;Vanuatu;0
+VEN;Venezuela;0
+VNM;Vietnã;0
+VGB;Ilhas Virgens;0
+WBG;Cisjordânia;0
+YEM;Iémen;0
+ZMB;Zâmbia;0
+ZWE;Zimbábue;0
